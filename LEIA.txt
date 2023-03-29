@@ -1,0 +1,1 @@
+Estes arquivos são o código fonte do PCC (Projeto de Conclusão de Curso) da Escola Técnica de Ceilândia.
